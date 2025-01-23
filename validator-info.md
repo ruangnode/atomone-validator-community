@@ -6,7 +6,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 | Name of Validator (name and moniker used for the AtomOne chain)  | Validator Website | Validator Twitter Page  | Region or Country where your validator operates  | Validator Team's GitHub handle (Organization) or individual GitHub handles (list all those involved with your Validator that will be participating in AtomOne activities)  | Validator Contact E-mail (Organization) or individual E-mail addresses  (list all those involved with your Validator that will be participating in AtomOne activities)  | Validator Team's Discord handles  (list all those involved with your Validator that will be participating in AtomOne activities)  | Transaction Hash link (TX Hash link) sent to any ATONE address to prove affiliation of discord users with your validator.  |
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
-| Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
+| ruangnode  | https://ruangnode.com | https://x.com/ruangnode | Indonesia | https://github.com/ruangnode | contact@ruangnode.com | ruangnode.com | B42D2C80F3E0B5BDA28AF74056AB52385D3C377CA3F87BE77BC1D2420C63171F |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
